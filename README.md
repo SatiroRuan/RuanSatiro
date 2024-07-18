@@ -1,4 +1,4 @@
-# Olá, eu sou Ruan Sátiro  
+# Olá, eu sou Ruan Sátiro !
 
 tenho conhecimentos das seguintes linguagens 
 
